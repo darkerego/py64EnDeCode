@@ -37,4 +37,5 @@ if doWhat == 0:
 elif doWhat == 1:
     deCODE()
 else:
-    print("WTF? 
+    print("WTF?")
+    exit(1)
